@@ -4,6 +4,6 @@
 # `src.app` as a subprocess and drives it over HTTP, so the service under the page is the
 # module the factory produced rather than a reimplementation of it.
 streamlit==1.40.2
-requests==2.32.3
+requests==2.34.2
 fastapi==0.115.6
 uvicorn==0.34.0
