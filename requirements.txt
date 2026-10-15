@@ -5,5 +5,5 @@
 # module the factory produced rather than a reimplementation of it.
 streamlit==1.40.2
 requests==2.32.3
-fastapi==0.115.6
+fastapi==0.143.0
 uvicorn==0.34.0
